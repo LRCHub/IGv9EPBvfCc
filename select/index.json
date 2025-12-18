@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "UnAlive",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-18T04:49:40.108608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UnAlive (Japanese Version)",
+      "artist": "Mori Calliope / 森カリオペ",
+      "has_synced": true,
+      "path": "select/01_UnAlive_(Japanese_Version)_Mori_Calliope___森カリオペ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UnAlive - Japanese Version",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/02_UnAlive_-_Japanese_Version_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UnAlive  (Japanese Version)",
+      "artist": "Calliope Mori",
+      "has_synced": true,
+      "path": "select/03_UnAlive_(Japanese_Version)_Calliope_Mori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unalive",
+      "artist": "Spotlights",
+      "has_synced": false,
+      "path": "select/04_Unalive_Spotlights.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "unalive",
+      "artist": "Braden Ross",
+      "has_synced": true,
+      "path": "select/05_unalive_Braden_Ross.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "unalive",
+      "artist": "Braden Ross",
+      "has_synced": false,
+      "path": "select/06_unalive_Braden_Ross.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unalive (10 of Swords)",
+      "artist": "Fame On Fire",
+      "has_synced": true,
+      "path": "select/07_Unalive_(10_of_Swords)_Fame_On_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "UnAlive (Japanese Version)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/08_UnAlive_(Japanese_Version)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "UnAlive",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/09_UnAlive_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "UnAlive (Eurobeat Remix)",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/10_UnAlive_(Eurobeat_Remix)_Mori_Calliope.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "UnAlive",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/11_UnAlive_Mori_Calliope.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UnAlive",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_UnAlive_Mori_Calliope.txt"
+    }
+  ]
+}
